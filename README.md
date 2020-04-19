@@ -6,7 +6,7 @@ This tool allows you to easily save, organize, and recall commonly used text, gr
 For example:
 <ul>
   <li>🖨️ <b><i>Formatted</i></b> text</li>
-  <li style="font-family=monospace,Courier;">📝 Unformatted text</li>
+  <li><span style="font-family: monospace,Courier;">📝 Unformatted text</span></li>
   <li>📜 Source code</li>
   <li>🎨 Raster and vector graphics</li>
   <li>🎶 Audio clips</li>
