@@ -6,10 +6,11 @@ This tool allows you to easily save, organize, and recall commonly used text, gr
 For example:
 <ul>
   <li>🖨️ <b><i>Formatted</i></b> text</li>
-  <li style="font-face=Courier">📝 Unformatted text</li>
+  <li style="font-family=monospace,Courier;">📝 Unformatted text</li>
   <li>📜 Source code</li>
   <li>🎨 Raster and vector graphics</li>
   <li>🎶 Audio clips</li>
+</ul>
 
 The user can organize clips by Category, Topic, and Subject, and can reformat to any compatible type. For example:
 
