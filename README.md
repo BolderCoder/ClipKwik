@@ -14,11 +14,15 @@ For example:
 
 The user can organize clips by Category, Topic, and Subject, and can reformat to any compatible type. For example:
 
-<pre>
+<code>
 Source Code
 -- C#
 ---- Data Access
 ---- Linq
 ---- Registry Access
 -- Etc.
-</pre>
+</code>
+
+Other tools include case reformatting (UPPER CASE / lower case / Sentance case / Proper Case) and saving the text contents of the clipboard to an image file or converting from formatted to unformatted text.
+
+This tool is useful to nearly any computer user, from novice to power user.
